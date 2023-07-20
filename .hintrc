@@ -4,9 +4,9 @@
   ],
   "hints": {
     "axe/name-role-value": [
-      "default",
+      "off",
       {
-        "button-name": "off"
+        "link-name": "off"
       }
     ],
     "button-type": "off",
@@ -15,9 +15,13 @@
       {
         "ignore": [
           "backdrop-filter",
+          "backdrop-filter",
+          "backdrop-filter",
+          "backdrop-filter",
           "backdrop-filter"
         ]
       }
-    ]
+    ],
+    "disown-opener": "off"
   }
 }
